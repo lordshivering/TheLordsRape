@@ -10,8 +10,8 @@ RUN SSH CLOUD SHELL FOR BETTER RESULTS
 
 TO RUN OPEN CMD 
 cd desktop
-perl twenty.pl
-example ("perl DDoS.pl 1.1.1.1 80 1000 300")
+perl TheLordsRape.pl
+example ("perl TheLordsRape.pl 1.1.1.1 80 1000 300")
 
 
 
